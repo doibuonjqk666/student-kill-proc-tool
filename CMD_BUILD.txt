@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile --name="HEHEHE" --icon=Hacker.ico --clean --uac-admin HEHEHE.py
